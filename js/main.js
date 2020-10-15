@@ -74,7 +74,7 @@ $(".reload").on("click", function() {
             <td>
               <div>
                 <button class="delete-row">
-                  <img src="/icons/lixeira.png" alt="">
+                  <img src="./icons/lixeira.png" alt="">
                 </button>
               </div>
               <hr>
